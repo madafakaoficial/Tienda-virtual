@@ -14,6 +14,7 @@ $boutique_version	= $theme['Version'];
 $theme				= wp_get_theme( 'storefront' );
 $storefront_version	= $theme['Version'];
 
+
 /**
  * Load the individual classes required by this theme
  */
@@ -21,6 +22,20 @@ require_once( 'inc/class-boutique.php' );
 require_once( 'inc/class-boutique-customizer.php' );
 require_once( 'inc/class-boutique-template.php' );
 require_once( 'inc/class-boutique-integrations.php' );
+
+//Boton limpiar carrito
+add_action('woocommerce_cart_actions', 'saayastore_limpiar_carrito');
+function saayastore_limpiar_carrito(){
+    echo '<a class="button" href="?vaciar-carrito=true">' . __('Vaciar Carrito','woocommerce') . '</a>';
+}
+//vaciar el carrito
+add_action('init', 'saayastore_vaciar_carrito');
+function saayastore_vaciar_carrito() {
+    if(isset($_GET['vaciar-carrito'])){
+        global $woocommerce;
+        $woocommerce->cart->empty_cart();
+    }
+}
 
 /**
  * Do not add custom code / snippets here.
