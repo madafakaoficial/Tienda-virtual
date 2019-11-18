@@ -3070,73 +3070,110 @@ N2D('SmartSliderControlMouseWheel', function ($, undefined) {
      */
     function SmartSliderControlMouseWheel(slider) {
 
-        this.preventScroll = false;
-        this.preventScrollGlobal = false;
+        this.preventScroll = {
+            local: false,
+            global: false,
+            localTimeout: false,
+            globalTimeout: false
+        };
 
         this.slider = slider;
 
-        slider.sliderElement.on('wheel', $.proxy(this.onMouseWheel, this));
+        document.addEventListener('wheel', $.proxy(this.onGlobalMouseWheel, this), {
+            passive: false
+        });
 
         slider.controls.mouseWheel = this;
     }
 
+    SmartSliderControlMouseWheel.prototype.hasScrollableParentRecursive = function (isUp, el) {
+
+        if (el === this.slider.sliderElement[0]) {
+            return false;
+        }
+
+        if (el.scrollHeight > el.clientHeight) {
+            if ($(el).css('overflow') !== 'hidden') {
+                if (isUp) {
+                    if (el.scrollTop > 0) {
+                        return true;
+                    }
+                } else {
+                    if (el.scrollTop + el.clientHeight < el.scrollHeight) {
+                        return true;
+                    }
+                }
+            }
+        }
+
+        return this.hasScrollableParentRecursive(isUp, el.parentNode);
+    };
+
+    SmartSliderControlMouseWheel.prototype.onGlobalMouseWheel = function (e) {
+        if (this.preventScroll.local) {
+            e.preventDefault();
+        } else {
+            if (this.preventScroll.global) {
+                e.preventDefault();
+            }
+            if (this.slider.sliderElement[0] === e.target || $.contains(this.slider.sliderElement[0], e.target)) {
+                if (!e.shiftKey && !this.hasScrollableParentRecursive(e.deltaY < 0, e.target)) {
+                    this.onMouseWheel(e);
+                }
+            }
+        }
+    };
+
     SmartSliderControlMouseWheel.prototype.onMouseWheel = function (e) {
 
-        if (this.preventScroll === false) {
+        var up = e.deltaY < 0;
+        if (up) {
+            if (!this.slider.isChangeCarousel('previous') || !this.slider.parameters.controls.blockCarouselInteraction) {
 
-            var up = e.originalEvent.deltaY < 0;
+                this.slider.previous();
 
-            if (up) {
-                if (!this.slider.isChangeCarousel('previous') || !this.slider.parameters.controls.blockCarouselInteraction) {
+                e.preventDefault();
 
-                    this.slider.previous();
-
-                    e.preventDefault();
-
-                    this.preventRepeat();
-                    this.preventGlobal();
-                }
-            } else {
-                if (!this.slider.isChangeCarousel('next') || !this.slider.parameters.controls.blockCarouselInteraction) {
-
-                    this.slider.next();
-
-                    e.preventDefault();
-
-                    this.preventRepeat();
-                    this.preventGlobal();
-                }
+                this.local1();
+                this.global();
             }
         } else {
-            e.preventDefault();
+            if (!this.slider.isChangeCarousel('next') || !this.slider.parameters.controls.blockCarouselInteraction) {
 
-            this.preventRepeat(e);
+                this.slider.next();
+
+                e.preventDefault();
+
+                this.local1();
+                this.global();
+            }
         }
     };
 
-    SmartSliderControlMouseWheel.prototype.preventRepeat = function () {
-        if (this.preventScroll !== false) {
-            clearTimeout(this.preventScroll);
+    SmartSliderControlMouseWheel.prototype.local1 = function () {
+
+        if (this.preventScroll.local !== false) {
+            clearTimeout(this.preventScroll.localTimeout);
         }
-        this.preventScroll = setTimeout($.proxy(function () {
-            this.preventScroll = false;
-            if (this.preventScrollGlobal !== false) {
-                clearTimeout(this.preventScrollGlobal);
-                this.preventScrollGlobal = false;
-            }
-        }, this), 200);
+
+        this.preventScroll.local = true;
+
+        this.preventScroll.localTimeout = setTimeout($.proxy(function () {
+            this.preventScroll.local = false;
+        }, this), 400);
     };
 
-    SmartSliderControlMouseWheel.prototype.preventGlobal = function () {
-        if (this.preventScrollGlobal !== false) {
-            clearTimeout(this.preventScrollGlobal);
+    SmartSliderControlMouseWheel.prototype.global = function () {
+
+        if (this.preventScroll.global !== false) {
+            clearTimeout(this.preventScroll.globalTimeout);
         }
-        this.preventScrollGlobal = setTimeout($.proxy(function () {
-            if (this.preventScroll !== false) {
-                clearTimeout(this.preventScroll);
-            }
-            this.preventScroll = false;
-        }, this), 2000);
+
+        this.preventScroll.global = true;
+
+        this.preventScroll.globalTimeout = setTimeout($.proxy(function () {
+            this.preventScroll.global = false;
+        }, this), 1000);
     };
 
     return SmartSliderControlMouseWheel;
@@ -3229,7 +3266,7 @@ N2D('SmartSliderControlTouch', function ($, undefined) {
     SmartSliderControlTouch.prototype._move = function (event, start, diff, isRealScrolling) {
         if (!isRealScrolling || this.currentInteraction.action !== 'unknown') {
 
-            this.currentInteraction.diection = this.measure(diff);
+            this.currentInteraction.direction = this.measure(diff);
 
             var distance = this.get(diff);
 
@@ -3384,7 +3421,7 @@ N2D('SmartSliderControlTouch', function ($, undefined) {
     SmartSliderControlTouch.prototype.recognizeSwitchInteraction = function () {
         if (this.currentInteraction.action === 'unknown') {
             if (this._animation.state === 'ended') {
-                var direction = this.currentInteraction.diection;
+                var direction = this.currentInteraction.direction;
                 if (direction !== 'unknown') {
                     /**
                      * This direction is allowed to change slides
@@ -5513,7 +5550,7 @@ N2D('SmartSliderResponsive', function ($, undefined) {
         for (var i = 0; i < this.horizontalElements.length; i++) {
             var responsiveElement = this.horizontalElements[i];
             if (typeof ratios[responsiveElement.ratioName] === 'undefined') {
-            debugger;
+                debugger;
                 console.log('error with ' + responsiveElement.ratioName);
             }
             responsiveElement.resize(this.responsiveDimensions, ratios[responsiveElement.ratioName], false, 0);
@@ -5845,7 +5882,7 @@ N2D('SmartSliderResponsive', function ($, undefined) {
             if (this.parameters.type === 'fullpage') {
                 var clientHeight = 0;
                 if (this.parameters.sliderHeightBasedOn === '100vh') {
-                    clientHeight = this.$viewportHeight.height();
+                    clientHeight = window.n2ClientHeight || this.$viewportHeight.height();
                 } else {
                     if (window.matchMedia && (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera)) {
                         var innerHeight,
@@ -6844,21 +6881,40 @@ N2D('FrontendItemYouTube', function ($, undefined) {
     FrontendItemYouTube.YTDeferred = null;
 
     FrontendItemYouTube.prototype.ready = function (callback) {
+
         if (FrontendItemYouTube.YTDeferred === null) {
             FrontendItemYouTube.YTDeferred = $.Deferred();
+
             if (window.YT === undefined) {
                 $.getScript("https://www.youtube.com/iframe_api");
             }
-            (function (deferred) {
-                var check = function () {
-                    if (window.YT !== undefined && window.YT.loaded) {
-                        deferred.resolve();
-                    } else {
-                        setTimeout(check, 100);
-                    }
-                };
-                check();
-            })(FrontendItemYouTube.YTDeferred);
+
+            if (window._EPYT_ !== undefined) {
+                /**
+                 * Fix for https://wordpress.org/plugins/youtube-embed-plus/
+                 */
+                (function (deferred) {
+                    var check = function () {
+                        if (window._EPADashboard_.initStarted === true) {
+                            deferred.resolve();
+                        } else {
+                            setTimeout(check, 100);
+                        }
+                    };
+                    check();
+                })(FrontendItemYouTube.YTDeferred);
+            } else {
+                (function (deferred) {
+                    var check = function () {
+                        if (window.YT !== undefined && window.YT.loaded) {
+                            deferred.resolve();
+                        } else {
+                            setTimeout(check, 100);
+                        }
+                    };
+                    check();
+                })(FrontendItemYouTube.YTDeferred);
+            }
         }
         FrontendItemYouTube.YTDeferred.done(callback);
     };
@@ -6949,7 +7005,9 @@ N2D('FrontendItemYouTube', function ($, undefined) {
                         case YT.PlayerState.PLAYING:
                         case YT.PlayerState.BUFFERING:
                             if (!this.isStatic) {
-                                this.slider.sliderElement.trigger('mediaStarted', this.playerId);
+                                if ($.inArray(this.slide, this.slider.getVisibleSlides(this.slider.currentSlide)) !== -1) {
+                                    this.slider.sliderElement.trigger('mediaStarted', this.playerId);
+                                }
                             }
                             $layer.triggerHandler('n2play');
                             break;
@@ -7025,7 +7083,9 @@ N2D('FrontendItemYouTube', function ($, undefined) {
             if (parseInt(this.parameters.reset)) {
                 this.slider.sliderElement.on("mainAnimationComplete", $.proxy(function (e, mainAnimation, previousSlideIndex, currentSlideIndex) {
                     if ($.inArray(this.slide, this.slider.getVisibleSlides(this.slider.slides[currentSlideIndex])) == -1) {
-                        this.player.seekTo(this.parameters.start);
+                        if (this.player.getCurrentTime() !== 0) {
+                            this.player.seekTo(this.parameters.start);
+                        }
                     }
                 }, this));
             }
@@ -7129,7 +7189,6 @@ N2D('FrontendItemYouTube', function ($, undefined) {
         var state = this.player.getPlayerState();
         switch (state) {
             case -1:
-            case 0:
             case 2:
             case 5:
                 return true;

@@ -2,7 +2,7 @@
 <?php toast_sta_christmas_advert(); ?>
 
 	<div class="wrap">
-	<h2>Scroll Triggered Animations <span class="toast-version-number">Version 2.1.0</span></h2>
+	<h2>Scroll Triggered Animations <span class="toast-version-number">Version 2.1.1</span></h2>
 	
 	<form action='options.php' method='post'>
 	<div class="toast-wrap">
@@ -114,7 +114,7 @@
     <div class="description">
 	<h4>Activate an element</h4>
 	<div class="more-info">
-	<i class="fas fa-info"></i>
+	<i class="dashicons-editor-help"></i>
 	<div class="hovered-text">
 	Add any element to this list. The script will track down the element and add the scroll-triggered class when it is due to animate.
 	</div>

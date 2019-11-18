@@ -69,10 +69,10 @@
 .toplevel_page_toast_sta_items .toast-metabox .form-table td{padding:15px 0px;border-bottom:1px solid rgba(100,121,143,0.122)}
 .toplevel_page_toast_sta_items .toast-metabox .description{display:inline-block;width:50%;max-width:300px;padding-right:3rem;vertical-align:middle;}
 .toplevel_page_toast_sta_items .toast-metabox .description h4{margin-bottom:0;display:inline-block;color:#000;font-size:15px;}
-.toplevel_page_toast_sta_items .toast-metabox .description .more-info{margin-left:5px;vertical-align:middle;cursor:default;position:relative;background:black;color:#ffffff;display:inline-block;height:15px;font-size:12px;width:15px;text-align:center;font-weight:bold;line-height:15px;-webkit-border-radius: 100%;-moz-border-radius: 100%;border-radius: 100%;}
-.toplevel_page_toast_sta_items .toast-metabox .description .more-info i{font-family:fontawesome;font-style:normal;}
+.toplevel_page_toast_sta_items .toast-metabox .description .more-info{margin-left:5px;vertical-align:middle;cursor:default;position:relative;color:black;display:inline-block;font-size:20px;f}
+.toplevel_page_toast_sta_items .toast-metabox .description .more-info i{font-family:dashicons;font-style:normal;}
 
-.toast-metabox .description .more-info .hovered-text{display:none;z-index:100;position:absolute;left:15px;top:15px;width:200px;padding:7px;background:#000000;font-size:10px;text-align:left;border-radius:5px;font-weight:400;}
+.toast-metabox .description .more-info .hovered-text{display:none;z-index:100;position:absolute;color:#ffffff;left:20px;top:20px;width:200px;padding:7px;background:#000000;font-size:10px;text-align:left;border-radius:5px;font-weight:400;}
 .toast-metabox .description .more-info:hover .hovered-text{display:block;}
 
 /**Examples**/
@@ -187,4 +187,4 @@
 .toast-sta-christmas-advert .right-side h3{color:#ffffff;}
 .toast-sta-christmas-advert .right-side .days{display:inline-block;background:rgba(255, 255, 255, 0.2);padding:50px;border-radius:20px;font-size:40px;}
 
-.toast-sta-christmas-advert .close{position:absolute;top:10px;right:10px;font-family:fontawesome;color:#ffffff;font-style:normal;font-size:25px;cursor:pointer;}
+.toast-sta-christmas-advert .close{position:absolute;top:10px;right:10px;font-family:dashicons;color:#ffffff;font-style:normal;font-size:25px;cursor:pointer;}

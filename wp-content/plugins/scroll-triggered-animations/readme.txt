@@ -3,17 +3,21 @@ Contributors: aaronj1998, davros20
 Tags: animation, css, jQuery, animate, scroll, page, animations
 Requires at least: 1.0.0
 Tested up to: 5.2
-Stable tag: 2.1.0
+Stable tag: 2.1.1
 
 A highly customisable, yet user friendly interface for applying animations on scroll. 
 
 == Description ==
-Scroll Triggered Animations is a highly customisable, yet user-friendly interface for implementing CSS animations on scroll throughout your WordPress website. Whether you’re a highly-skilled web guru, a content editor or you’ve absolutely no knowledge of web development, we’ve made the scroll animation process easy! Activate this plugin on any bespoke, child or standard theme and follow the instructions to animate your website within minutes.
+Scroll Triggered Animations is a highly customisable, yet user-friendly interface for implementing CSS animations on scroll throughout your WordPress website. 
 
+Whether you’re a highly-skilled web guru, a content editor or you’ve absolutely no knowledge of web development, we’ve made the scroll animation process easy! Activate this plugin on any theme and follow the instructions to animate your website within minutes.
+
+<h3>Plugin Features</h3>
 <ul>
-<li>Animate anything on scroll - Easiest way within the Wordpress CMS to implement animations on scroll. Animate any element of your liking.</li>
-<li>100% Customisability in our advanced animations tab - Here, we make the script and you make the CSS animations!</li>
-<li>Dummy Friendly - Don't know anything about code? You don't need to! This plugin is still works for you!</li>
+<li>Animate anything on scroll - Easiest way within Wordpress to implement animations on scroll. Animate any element of your choice.</li>
+<li>25+ preset animations - 25+ Preset animations available out of the box. No need to touch any code - just simply add the CSS class and watch the magic happen!</li>
+<li>Advanced animations - Option to make your own CSS animations tailored to your website and branding. We make the script and you write the CSS.</li>
+
 </ul>
 
 
@@ -61,7 +65,10 @@ This could be a number of reasons. The most common issue for this is javascript 
 
 == Changelog ==
 
-= 2.1.0=
+= 2.1.1 =
+*Number of bug fixes and compatibility changes.
+
+= 2.1.0 =
 *Number of bug fixes
 *Christmas styling
 

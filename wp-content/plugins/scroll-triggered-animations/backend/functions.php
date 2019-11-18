@@ -16,7 +16,7 @@
 </div>
 
 <div class="toast-sta-christmas-advert">
-<i class="fas fa-times close"></i>
+<i class="dashicons-no-alt close"></i>
 <div class="table">
 <div class="left-side">
 <h3>Get 40% Off Premium</h3>
@@ -53,7 +53,7 @@ jQuery('.toast-sta-christmas-advert-background, .toast-sta-christmas-advert').ad
 }, 5000)
 
 //CLOSE POPUP
-jQuery('.toast-sta-christmas-advert .close').on('click', function(){
+jQuery('.toast-sta-christmas-advert .close, .toast-sta-christmas-advert-background').on('click', function(){
 
 jQuery('.toast-sta-christmas-advert, .toast-sta-christmas-advert-background').remove();
 

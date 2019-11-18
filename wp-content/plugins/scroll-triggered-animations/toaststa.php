@@ -2,8 +2,8 @@
    /*
    Plugin Name: Scroll Triggered Animations
    Plugin URI:
-   description: Finding it hard to delay your animations the right period of time? This simple plugin makes life easier for you.
-   Version: 2.1.0
+   description: An great animation interface that helps you animate anything on your site.
+   Version: 2.1.1
    Author: Toast Plugins
    Author URI: https://www.toastplugins.co.uk/
    */

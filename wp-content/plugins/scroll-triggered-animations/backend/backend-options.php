@@ -95,7 +95,7 @@ function toast_animate_on_page_load_render() {
 	<h4>Add Class on page load?</h4>
 	
 	<div class="more-info">
-	<i class="fas fa-info"></i>
+	<i class="dashicons-editor-help"></i>
 	<div class="hovered-text">
 	Apply the animations before any scroll movement. Useful if you have animations at the top of a page.
 	</div>
@@ -120,7 +120,7 @@ function toast_sta_position_start_render() {
 	<h4>Offset From bottom</h4>
 	
 	<div class="more-info">
-	<i class="fas fa-info"></i>
+	<i class="dashicons-editor-help"></i>
 	<div class="hovered-text">
 	Position from the bottom of viewport to start animations. Useful if you have a fixed footer.
 	</div>
@@ -148,7 +148,7 @@ function toast_sta_disable_on_mobile_render() {
 	<h4>Disable default animations on mobile?</h4>
 	
 	<div class="more-info">
-	<i class="fas fa-info"></i>
+	<i class="dashicons-editor-help"></i>
 	<div class="hovered-text">
 	Disable all default animations on mobile devices.
 	</div>
@@ -173,7 +173,7 @@ function toast_sta_repeat_animations_render() {
 	<h4>Repeat after leaving viewport?</h4>
 	
 	<div class="more-info">
-	<i class="fas fa-info"></i>
+	<i class="dashicons-editor-help"></i>
 	<div class="hovered-text">
 	Remove the class when the items leave the viewport. Animation will repeat for every time you scroll up and down the page and the items enters the viewport
 	</div>
