@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'tienda_virtual' );
+define( 'DB_NAME', 'heroku_e60f2638c7e9a9c' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'bb76ead37e1fd8' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '09d56502' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
