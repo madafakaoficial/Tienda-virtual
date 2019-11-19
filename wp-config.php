@@ -17,7 +17,9 @@
  *
  * @package WordPress
  */
+define( 'WP_HOME', 'https://bandoristore.herokuapp.com/' );
 
+define( 'WP_SITEURL', 'https://bandoristore.herokuapp.com/' );
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'heroku_989c139103ff0d3' );
