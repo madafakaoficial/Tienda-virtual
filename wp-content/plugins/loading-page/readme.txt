@@ -424,8 +424,12 @@ A: Please be sure you are using a browser with CSS3 support.
 
 * Fixes an issue when javascript is disabled on browsers.
 
+= 1.0.62 =
+
+* Includes a new section to allow disable the loading screen from pages based on their URLs. This allows to disable the loading screen on the ipn scripts, or any other URL used by services in background.
+
 == Upgrade Notice ==
 
-= 1.0.61 =
+= 1.0.62 =
 
 Important note: If you are using the Professional version don't update via the WP dashboard but using your personal update link. Contact us if you need further information: http://wordpress.dwbooster.com/support

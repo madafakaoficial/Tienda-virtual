@@ -3,7 +3,7 @@
 Plugin Name: Loading Page
 Plugin URI: http://wordpress.dwbooster.com/content-tools/loading-page
 Description: Loading Page plugin performs a pre-loading of images on your website and displays a loading progress screen with percentage of completion. Once everything is loaded, the screen disappears.
-Version: 1.0.61
+Version: 1.0.62
 Author: CodePeople
 Author URI: http://wordpress.dwbooster.com/content-tools/loading-page
 License: GPLv2
@@ -65,6 +65,7 @@ if(!function_exists('loading_page_install')){
 			'lp_loading_screen_display_in_pages' => '',
 			'lp_loading_screen_exclude_from_pages' => '',
 			'lp_loading_screen_exclude_from_post_types' => '',
+			'lp_loading_screen_exclude_from_urls' => array(),
             'displayPercent'            => true,
             'backgroundImage'           => '',
             'backgroundImageRepeat'     => 'repeat',
@@ -264,7 +265,7 @@ if(!function_exists('loading_page_admin_resources')){
 		    wp_enqueue_style( 'thickbox' );
             wp_enqueue_script( 'thickbox' );
 
-            wp_enqueue_script('lp-admin-script', LOADING_PAGE_PLUGIN_URL.'/js/loading-page-admin.js', array('jquery', 'thickbox', 'farbtastic'), 'free-1.0.61');
+            wp_enqueue_script('lp-admin-script', LOADING_PAGE_PLUGIN_URL.'/js/loading-page-admin.js', array('jquery', 'thickbox', 'farbtastic'), 'free-1.0.62');
         }
     } // End loading_page_admin_resources
 }
@@ -314,6 +315,8 @@ if( !function_exists('loading_page_loading_screen') ){
 				$exclude_post_types = str_replace( ' ', '', $exclude_post_types );
 				$exclude_post_types = explode( ',', $exclude_post_types );
 
+				$exclude_pages_urls = ( !empty( $op[ 'lp_loading_screen_exclude_from_urls' ] ) ) ? $op[ 'lp_loading_screen_exclude_from_urls' ] : array();
+
 				if(
 					(
 						empty( $op[ 'lp_loading_screen_display_in' ] ) ||
@@ -338,6 +341,18 @@ if( !function_exists('loading_page_loading_screen') ){
 					)
 				)
 				{
+					if(!empty($exclude_pages_urls))
+					{
+						$protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+						$current_url = $protocol . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+						foreach($exclude_pages_urls as $exclude_page_url)
+						{
+							$exclude_page_url = preg_quote($exclude_page_url, '/');
+							$exclude_page_url = str_replace('\*', '.*', $exclude_page_url);
+							if(preg_match('/'.$exclude_page_url.'/i', $current_url)) return;
+						}
+					}
+
 					$loadingScreen = 1;
 					add_action( 'wp_head',  'loading_page_replace_the_header', 99 );
 					add_filter( 'autoptimize_filter_js_dontmove','loading_page_autoptimize_exclude',10,1);
@@ -429,24 +444,24 @@ if(!function_exists('loading_page_enqueue_scripts')){
 			$required = array('jquery');
 			wp_enqueue_script('jquery');
 			wp_localize_script('jquery', 'loading_page_settings', $loading_page_settings);
-			 wp_enqueue_style('codepeople-loading-page-style', LOADING_PAGE_PLUGIN_URL.'/css/loading-page.css', array(), 'free-1.0.61', false);
-			wp_enqueue_style('codepeople-loading-page-style-effect', LOADING_PAGE_PLUGIN_URL.'/css/loading-page'.(($op['pageEffect'] != 'none') ? '-'.$op['pageEffect'] : '').'.css', array(), 'free-1.0.61', false);
+			 wp_enqueue_style('codepeople-loading-page-style', LOADING_PAGE_PLUGIN_URL.'/css/loading-page.css', array(), 'free-1.0.62', false);
+			wp_enqueue_style('codepeople-loading-page-style-effect', LOADING_PAGE_PLUGIN_URL.'/css/loading-page'.(($op['pageEffect'] != 'none') ? '-'.$op['pageEffect'] : '').'.css', array(), 'free-1.0.62', false);
 
             $s = loading_page_get_screen($op['loading_screen']);
             if($s)
 			{
                 if(!empty($s['style']))
 				{
-                    wp_enqueue_style('codepeople-loading-page-style-'.$s['id'], $s['style'], array(), 'free-1.0.61', false);
+                    wp_enqueue_style('codepeople-loading-page-style-'.$s['id'], $s['style'], array(), 'free-1.0.62', false);
                 }
 
                 if(!empty($s['script']))
 				{
-                    wp_enqueue_script('codepeople-loading-page-script-'.$s['id'], $s['script'], array('jquery'), 'free-1.0.61', false);
+                    wp_enqueue_script('codepeople-loading-page-script-'.$s['id'], $s['script'], array('jquery'), 'free-1.0.62', false);
                     $required[] = 'codepeople-loading-page-script-'.$s['id'];
                 }
             }
-            wp_enqueue_script('codepeople-loading-page-script', LOADING_PAGE_PLUGIN_URL.'/js/loading-page.js', $required, 'free-1.0.61', false);
+            wp_enqueue_script('codepeople-loading-page-script', LOADING_PAGE_PLUGIN_URL.'/js/loading-page.js', $required, 'free-1.0.62', false);
         }
     } // End loading_page_enqueue_scripts
 }
@@ -491,6 +506,15 @@ if(!function_exists('loading_page_settings_page')){
 			$additionalSeconds = @intval($_POST['lp_additionalSeconds']);
 			$codeBlock = loading_page_clean_and_sanitize($_POST['lp_codeBlock']);
 
+			$lp_loading_screen_exclude_from_urls = sanitize_textarea_field($_POST['lp_loading_screen_exclude_from_urls']);
+			$lp_loading_screen_exclude_from_urls  = explode("\n", $lp_loading_screen_exclude_from_urls);
+			foreach ($lp_loading_screen_exclude_from_urls as $key => $url)
+			{
+				$url = trim($url);
+				if($url == '') unset($lp_loading_screen_exclude_from_urls[$key]);
+				else $lp_loading_screen_exclude_from_urls[$key]=$url;
+			}
+
             // Set the default options here
             $loading_page_options = array(
                 'foregroundColor'           => (!empty($_POST['lp_foregroundColor'])) ? sanitize_text_field($_POST['lp_foregroundColor']) : '#FFFFFF',
@@ -514,6 +538,7 @@ if(!function_exists('loading_page_settings_page')){
 				'lp_loading_screen_display_in_pages'   => sanitize_text_field($_POST[ 'lp_loading_screen_display_in_pages' ]),
 				'lp_loading_screen_exclude_from_pages' => sanitize_text_field($_POST[ 'lp_loading_screen_exclude_from_pages' ]),
 				'lp_loading_screen_exclude_from_post_types' => sanitize_text_field($_POST[ 'lp_loading_screen_exclude_from_post_types' ]),
+				'lp_loading_screen_exclude_from_urls'  => $lp_loading_screen_exclude_from_urls,
 				'deepSearch'				=> (isset($_POST['lp_deactivateDeepSearch'])) ? false : true,
 				'modifyDisplayRule'			=> (isset($_POST['lp_modifyDisplayRule'])) ? true : false,
                 'loading_screen'            => sanitize_text_field($_POST['lp_loading_screen']),
@@ -644,6 +669,16 @@ if(!function_exists('loading_page_settings_page')){
 							<tr>
 								<th><?php _e( 'Exclude loading screen from post types' ); ?></th>
 								<td><input type="text" name="lp_loading_screen_exclude_from_post_types" value="<?php if( !empty( $loading_page_options['lp_loading_screen_exclude_from_post_types'] ) ) print esc_attr($loading_page_options['lp_loading_screen_exclude_from_post_types']); ?>"> <span>In this case should be typed one, or more post types, separated by the comma symbol ","</span></td>
+							</tr>
+							<tr>
+								<th><?php _e( 'Exclude loading screen from pages with the URL' ); ?></th>
+								<td><textarea name="lp_loading_screen_exclude_from_urls" style="width:100%" rows="6"><?php
+									print esc_textarea(
+										(!empty($loading_page_options['lp_loading_screen_exclude_from_urls']))
+										? implode("\n", $loading_page_options['lp_loading_screen_exclude_from_urls']) : ""
+									);
+								?></textarea>
+								<span>Enter an URL per row (it is possible to use the * symbol as wildcard)</span></td>
 							</tr>
 							<tr><td colspan="2"><hr /></td></tr>
                             <tr>

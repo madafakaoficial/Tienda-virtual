@@ -1,0 +1,1420 @@
+[2019-11-22 17:01:16 : INFO] - Re_Smush_It_Task server status: Online 
+[2019-11-22 17:01:17 : INFO] - 
+ 
+[2019-11-22 17:01:17 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:01:17 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:01:17 : INFO] - WP: 5.3 
+[2019-11-22 17:01:17 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:01:17 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:01:17 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:01:17 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:01:17 : INFO] - Outbound connections: N 
+[2019-11-22 17:01:17 : INFO] - safe_mode: 0 
+[2019-11-22 17:01:17 : INFO] - max_execution_time: 300 
+[2019-11-22 17:01:17 : INFO] - memory_limit: 600M (used: 81M | 14M) 
+[2019-11-22 17:01:17 : INFO] - multisite: N 
+[2019-11-22 17:01:17 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:01:19 : INFO] - A total of 66 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:01:19 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:01:19 
+[2019-11-22 17:01:19 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:01:19 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2019-11-22 17:01:19 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:19 : INFO] - 100 
+[2019-11-22 17:01:21 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/pagos-1-updraft-pre-smush-original.png 
+[2019-11-22 17:01:21 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:21 : INFO] - 100 
+[2019-11-22 17:01:22 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:22 : INFO] - 100 
+[2019-11-22 17:01:24 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:24 : INFO] - 100 
+[2019-11-22 17:01:25 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:25 : INFO] - 100 
+[2019-11-22 17:01:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/pagos-1.png.The file was compressed from 4.02 KB to 4.02 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:01:26 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2019-11-22 17:01:26 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2019-11-22 17:01:26 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:26 : INFO] - 100 
+[2019-11-22 17:01:33 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/404-updraft-pre-smush-original.jpg 
+[2019-11-22 17:01:33 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:33 : INFO] - 100 
+[2019-11-22 17:01:34 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:34 : INFO] - 100 
+[2019-11-22 17:01:36 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:36 : INFO] - 100 
+[2019-11-22 17:01:38 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:38 : INFO] - 100 
+[2019-11-22 17:01:41 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:41 : INFO] - 100 
+[2019-11-22 17:01:43 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:43 : INFO] - 100 
+[2019-11-22 17:01:45 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:45 : INFO] - 100 
+[2019-11-22 17:01:47 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:47 : INFO] - 100 
+[2019-11-22 17:01:48 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:48 : INFO] - 100 
+[2019-11-22 17:01:49 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:49 : INFO] - 100 
+[2019-11-22 17:01:51 : INFO] - Re_Smush_It_Task - Attachment ID : 318, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:51 : INFO] - 100 
+[2019-11-22 17:01:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/404.jpg.The file was compressed from 551.01 KB to 522.24 KB saving 5.22 percent using WP-Optimize 
+[2019-11-22 17:01:52 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2019-11-22 17:01:52 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:01:52 
+[2019-11-22 17:01:52 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2019-11-22 17:01:52 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:52 : INFO] - 100 
+[2019-11-22 17:01:55 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/cropped-75231816_2427837970820409_7470253316765646848_o-updraft-pre-smush-original.jpg 
+[2019-11-22 17:01:55 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:55 : INFO] - 100 
+[2019-11-22 17:01:56 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:56 : INFO] - 100 
+[2019-11-22 17:01:58 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:01:58 : INFO] - 100 
+[2019-11-22 17:02:00 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:00 : INFO] - 100 
+[2019-11-22 17:02:02 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:02 : INFO] - 100 
+[2019-11-22 17:02:04 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:04 : INFO] - 100 
+[2019-11-22 17:02:07 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:07 : INFO] - 100 
+[2019-11-22 17:02:09 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:09 : INFO] - 100 
+[2019-11-22 17:02:10 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:10 : INFO] - 100 
+[2019-11-22 17:02:12 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:12 : INFO] - 100 
+[2019-11-22 17:02:14 : INFO] - Re_Smush_It_Task - Attachment ID : 310, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:14 : INFO] - 100 
+[2019-11-22 17:02:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/cropped-75231816_2427837970820409_7470253316765646848_o.jpg.The file was compressed from 94.26 KB to 89.20 KB saving 5.37 percent using WP-Optimize 
+[2019-11-22 17:02:15 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2019-11-22 17:02:15 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:02:15 
+[2019-11-22 17:02:15 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2019-11-22 17:02:15 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:15 : INFO] - 100 
+[2019-11-22 17:02:18 : INFO] - 
+ 
+[2019-11-22 17:02:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:02:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:02:18 : INFO] - WP: 5.3 
+[2019-11-22 17:02:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:02:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:02:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:02:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:02:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:02:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:02:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:02:18 : INFO] - memory_limit: 600M (used: 81M | 8M) 
+[2019-11-22 17:02:18 : INFO] - multisite: N 
+[2019-11-22 17:02:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:02:18 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:02:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:02:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:02:20 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/75231816_2427837970820409_7470253316765646848_o-updraft-pre-smush-original.jpg 
+[2019-11-22 17:02:20 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:20 : INFO] - 100 
+[2019-11-22 17:02:21 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:21 : INFO] - 100 
+[2019-11-22 17:02:23 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:23 : INFO] - 100 
+[2019-11-22 17:02:26 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:26 : INFO] - 100 
+[2019-11-22 17:02:29 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:29 : INFO] - 100 
+[2019-11-22 17:02:31 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:31 : INFO] - 100 
+[2019-11-22 17:02:33 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:33 : INFO] - 100 
+[2019-11-22 17:02:36 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:36 : INFO] - 100 
+[2019-11-22 17:02:37 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:37 : INFO] - 100 
+[2019-11-22 17:02:39 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:39 : INFO] - 100 
+[2019-11-22 17:02:41 : INFO] - Re_Smush_It_Task - Attachment ID : 309, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:41 : INFO] - 100 
+[2019-11-22 17:02:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/75231816_2427837970820409_7470253316765646848_o.jpg.The file was compressed from 290.14 KB to 290.14 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:02:43 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2019-11-22 17:02:43 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:02:43 
+[2019-11-22 17:02:43 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2019-11-22 17:02:43 : INFO] - Re_Smush_It_Task - Attachment ID : 308, Started on : November 22, 2019 05:01:17 
+[2019-11-22 17:02:43 : INFO] - 100 
+[2019-11-22 17:03:18 : INFO] - 
+ 
+[2019-11-22 17:03:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:03:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:03:18 : INFO] - WP: 5.3 
+[2019-11-22 17:03:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:03:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:03:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:03:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:03:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:03:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:03:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:03:18 : INFO] - memory_limit: 600M (used: 81M | 8M) 
+[2019-11-22 17:03:18 : INFO] - multisite: N 
+[2019-11-22 17:03:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:03:18 : INFO] - A total of 62 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:03:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:03:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:04:18 : INFO] - 
+ 
+[2019-11-22 17:04:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:04:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:04:18 : INFO] - WP: 5.3 
+[2019-11-22 17:04:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:04:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:04:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:04:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:04:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:04:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:04:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:04:18 : INFO] - memory_limit: 600M (used: 81M | 8M) 
+[2019-11-22 17:04:18 : INFO] - multisite: N 
+[2019-11-22 17:04:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:04:18 : INFO] - A total of 62 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:04:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:04:18 
+[2019-11-22 17:04:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:04:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:04:18 
+[2019-11-22 17:04:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:04:21 : INFO] - Task with ID 5 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:04:21 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2019-11-22 17:04:21 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:21 : INFO] - 100 
+[2019-11-22 17:04:23 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1-2-updraft-pre-smush-original.jpg 
+[2019-11-22 17:04:23 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:23 : INFO] - 100 
+[2019-11-22 17:04:25 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:25 : INFO] - 100 
+[2019-11-22 17:04:26 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:26 : INFO] - 100 
+[2019-11-22 17:04:28 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:28 : INFO] - 100 
+[2019-11-22 17:04:30 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:30 : INFO] - 100 
+[2019-11-22 17:04:33 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:33 : INFO] - 100 
+[2019-11-22 17:04:34 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:34 : INFO] - 100 
+[2019-11-22 17:04:37 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:37 : INFO] - 100 
+[2019-11-22 17:04:38 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:38 : INFO] - 100 
+[2019-11-22 17:04:40 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:40 : INFO] - 100 
+[2019-11-22 17:04:42 : INFO] - Re_Smush_It_Task - Attachment ID : 306, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:42 : INFO] - 100 
+[2019-11-22 17:04:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1-2.jpg.The file was compressed from 101.36 KB to 95.02 KB saving 6.25 percent using WP-Optimize 
+[2019-11-22 17:04:43 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2019-11-22 17:04:43 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:04:43 
+[2019-11-22 17:04:43 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2019-11-22 17:04:43 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:43 : INFO] - 100 
+[2019-11-22 17:04:51 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/releasedate-updraft-pre-smush-original.jpg 
+[2019-11-22 17:04:51 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:51 : INFO] - 100 
+[2019-11-22 17:04:52 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:52 : INFO] - 100 
+[2019-11-22 17:04:54 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:54 : INFO] - 100 
+[2019-11-22 17:04:58 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:04:58 : INFO] - 100 
+[2019-11-22 17:05:01 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:01 : INFO] - 100 
+[2019-11-22 17:05:04 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:04 : INFO] - 100 
+[2019-11-22 17:05:06 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:06 : INFO] - 100 
+[2019-11-22 17:05:09 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:09 : INFO] - 100 
+[2019-11-22 17:05:11 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:11 : INFO] - 100 
+[2019-11-22 17:05:12 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:12 : INFO] - 100 
+[2019-11-22 17:05:15 : INFO] - Re_Smush_It_Task - Attachment ID : 303, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:15 : INFO] - 100 
+[2019-11-22 17:05:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/releasedate.jpg.The file was compressed from 932.17 KB to 709.91 KB saving 23.84 percent using WP-Optimize 
+[2019-11-22 17:05:17 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2019-11-22 17:05:17 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:05:17 
+[2019-11-22 17:05:17 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2019-11-22 17:05:17 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:17 : INFO] - 100 
+[2019-11-22 17:05:18 : INFO] - 
+ 
+[2019-11-22 17:05:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:05:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:05:18 : INFO] - WP: 5.3 
+[2019-11-22 17:05:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:05:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:05:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:05:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:05:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:05:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:05:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:05:18 : INFO] - memory_limit: 600M (used: 80.9M | 20M) 
+[2019-11-22 17:05:18 : INFO] - multisite: N 
+[2019-11-22 17:05:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:05:18 : INFO] - A total of 59 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:05:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:05:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:05:21 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/EH_MwfRUcAoZBua-updraft-pre-smush-original.jpg 
+[2019-11-22 17:05:21 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:21 : INFO] - 100 
+[2019-11-22 17:05:23 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:23 : INFO] - 100 
+[2019-11-22 17:05:24 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:24 : INFO] - 100 
+[2019-11-22 17:05:27 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:27 : INFO] - 100 
+[2019-11-22 17:05:30 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:30 : INFO] - 100 
+[2019-11-22 17:05:33 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:33 : INFO] - 100 
+[2019-11-22 17:05:35 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:35 : INFO] - 100 
+[2019-11-22 17:05:38 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:38 : INFO] - 100 
+[2019-11-22 17:05:39 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:39 : INFO] - 100 
+[2019-11-22 17:05:41 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:41 : INFO] - 100 
+[2019-11-22 17:05:43 : INFO] - Re_Smush_It_Task - Attachment ID : 301, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:43 : INFO] - 100 
+[2019-11-22 17:05:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/EH_MwfRUcAoZBua.jpg.The file was compressed from 229.19 KB to 229.19 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:05:45 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2019-11-22 17:05:45 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:05:45 
+[2019-11-22 17:05:45 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2019-11-22 17:05:45 : INFO] - Re_Smush_It_Task - Attachment ID : 300, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:05:45 : INFO] - 100 
+[2019-11-22 17:06:18 : INFO] - 
+ 
+[2019-11-22 17:06:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:06:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:06:18 : INFO] - WP: 5.3 
+[2019-11-22 17:06:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:06:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:06:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:06:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:06:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:06:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:06:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:06:18 : INFO] - memory_limit: 600M (used: 80.9M | 14M) 
+[2019-11-22 17:06:18 : INFO] - multisite: N 
+[2019-11-22 17:06:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:06:18 : INFO] - A total of 58 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:06:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:06:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:07:18 : INFO] - 
+ 
+[2019-11-22 17:07:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:07:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:07:18 : INFO] - WP: 5.3 
+[2019-11-22 17:07:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:07:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:07:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:07:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:07:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:07:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:07:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:07:18 : INFO] - memory_limit: 600M (used: 80.9M | 16M) 
+[2019-11-22 17:07:18 : INFO] - multisite: N 
+[2019-11-22 17:07:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:07:18 : INFO] - A total of 58 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:07:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:07:18 
+[2019-11-22 17:07:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:07:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:07:18 
+[2019-11-22 17:07:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:07:21 : INFO] - Task with ID 9 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:07:21 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2019-11-22 17:07:21 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:21 : INFO] - 100 
+[2019-11-22 17:07:24 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/elon_musk_royal_society-updraft-pre-smush-original.jpg 
+[2019-11-22 17:07:24 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:24 : INFO] - 100 
+[2019-11-22 17:07:25 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:25 : INFO] - 100 
+[2019-11-22 17:07:27 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:27 : INFO] - 100 
+[2019-11-22 17:07:28 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:28 : INFO] - 100 
+[2019-11-22 17:07:30 : INFO] - Re_Smush_It_Task - Attachment ID : 268, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:30 : INFO] - 100 
+[2019-11-22 17:07:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/elon_musk_royal_society.jpg.The file was compressed from 148.23 KB to 147.30 KB saving 0.63 percent using WP-Optimize 
+[2019-11-22 17:07:33 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2019-11-22 17:07:33 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2019-11-22 17:07:33 : INFO] - Re_Smush_It_Task - Attachment ID : 267, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:33 : INFO] - 100 
+[2019-11-22 17:07:37 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_01-1-updraft-pre-smush-original.png 
+[2019-11-22 17:07:37 : INFO] - Re_Smush_It_Task - Attachment ID : 267, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:37 : INFO] - 100 
+[2019-11-22 17:07:39 : INFO] - Re_Smush_It_Task - Attachment ID : 267, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:39 : INFO] - 100 
+[2019-11-22 17:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 267, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:41 : INFO] - 100 
+[2019-11-22 17:07:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/character_01-1.png.The file was compressed from 326.87 KB to 70.51 KB saving 78.43 percent using WP-Optimize 
+[2019-11-22 17:07:43 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2019-11-22 17:07:43 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:07:43 
+[2019-11-22 17:07:43 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2019-11-22 17:07:43 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:43 : INFO] - 100 
+[2019-11-22 17:07:46 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_04-updraft-pre-smush-original.png 
+[2019-11-22 17:07:46 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:46 : INFO] - 100 
+[2019-11-22 17:07:48 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:48 : INFO] - 100 
+[2019-11-22 17:07:50 : INFO] - Re_Smush_It_Task - Attachment ID : 266, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:50 : INFO] - 100 
+[2019-11-22 17:07:53 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/character_04.png.The file was compressed from 186.21 KB to 41.50 KB saving 77.71 percent using WP-Optimize 
+[2019-11-22 17:07:53 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2019-11-22 17:07:53 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2019-11-22 17:07:53 : INFO] - Re_Smush_It_Task - Attachment ID : 265, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:53 : INFO] - 100 
+[2019-11-22 17:07:55 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_05-updraft-pre-smush-original.png 
+[2019-11-22 17:07:55 : INFO] - Re_Smush_It_Task - Attachment ID : 265, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:55 : INFO] - 100 
+[2019-11-22 17:07:58 : INFO] - Re_Smush_It_Task - Attachment ID : 265, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:07:58 : INFO] - 100 
+[2019-11-22 17:08:00 : INFO] - Re_Smush_It_Task - Attachment ID : 265, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:00 : INFO] - 100 
+[2019-11-22 17:08:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/character_05.png.The file was compressed from 109.00 KB to 27.99 KB saving 74.32 percent using WP-Optimize 
+[2019-11-22 17:08:02 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2019-11-22 17:08:02 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2019-11-22 17:08:02 : INFO] - Re_Smush_It_Task - Attachment ID : 264, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:02 : INFO] - 100 
+[2019-11-22 17:08:05 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_03-updraft-pre-smush-original.png 
+[2019-11-22 17:08:05 : INFO] - Re_Smush_It_Task - Attachment ID : 264, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:05 : INFO] - 100 
+[2019-11-22 17:08:07 : INFO] - Re_Smush_It_Task - Attachment ID : 264, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:07 : INFO] - 100 
+[2019-11-22 17:08:09 : INFO] - Re_Smush_It_Task - Attachment ID : 264, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:09 : INFO] - 100 
+[2019-11-22 17:08:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/character_03.png.The file was compressed from 186.53 KB to 38.81 KB saving 79.19 percent using WP-Optimize 
+[2019-11-22 17:08:11 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2019-11-22 17:08:11 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:08:11 
+[2019-11-22 17:08:11 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2019-11-22 17:08:11 : INFO] - Re_Smush_It_Task - Attachment ID : 263, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:11 : INFO] - 100 
+[2019-11-22 17:08:15 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_02-updraft-pre-smush-original.png 
+[2019-11-22 17:08:15 : INFO] - Re_Smush_It_Task - Attachment ID : 263, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:15 : INFO] - 100 
+[2019-11-22 17:08:18 : INFO] - 
+ 
+[2019-11-22 17:08:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:08:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:08:18 : INFO] - WP: 5.3 
+[2019-11-22 17:08:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:08:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:08:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:08:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:08:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:08:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:08:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:08:18 : INFO] - memory_limit: 600M (used: 80.9M | 44M) 
+[2019-11-22 17:08:18 : INFO] - multisite: N 
+[2019-11-22 17:08:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:08:18 : INFO] - A total of 52 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:08:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:08:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:08:18 : INFO] - Re_Smush_It_Task - Attachment ID : 263, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:18 : INFO] - 100 
+[2019-11-22 17:08:20 : INFO] - Re_Smush_It_Task - Attachment ID : 263, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:20 : INFO] - 100 
+[2019-11-22 17:08:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/character_02.png.The file was compressed from 446.44 KB to 96.40 KB saving 78.41 percent using WP-Optimize 
+[2019-11-22 17:08:23 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2019-11-22 17:08:23 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2019-11-22 17:08:23 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:23 : INFO] - 100 
+[2019-11-22 17:08:25 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/1500x500-updraft-pre-smush-original.jpg 
+[2019-11-22 17:08:25 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:25 : INFO] - 100 
+[2019-11-22 17:08:27 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:27 : INFO] - 100 
+[2019-11-22 17:08:28 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:28 : INFO] - 100 
+[2019-11-22 17:08:30 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:30 : INFO] - 100 
+[2019-11-22 17:08:32 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:32 : INFO] - 100 
+[2019-11-22 17:08:33 : INFO] - Re_Smush_It_Task - Attachment ID : 261, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:33 : INFO] - 100 
+[2019-11-22 17:08:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/1500x500.jpg.The file was compressed from 61.79 KB to 61.79 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:08:35 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2019-11-22 17:08:35 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:08:35 
+[2019-11-22 17:08:35 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2019-11-22 17:08:35 : INFO] - Re_Smush_It_Task - Attachment ID : 229, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:35 : INFO] - 100 
+[2019-11-22 17:08:36 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/craft_egg_logo-updraft-pre-smush-original.png 
+[2019-11-22 17:08:36 : INFO] - Re_Smush_It_Task - Attachment ID : 229, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:36 : INFO] - 100 
+[2019-11-22 17:08:38 : INFO] - Re_Smush_It_Task - Attachment ID : 229, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:38 : INFO] - 100 
+[2019-11-22 17:08:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/craft_egg_logo.png.The file was compressed from 4.88 KB to 3.31 KB saving 32.14 percent using WP-Optimize 
+[2019-11-22 17:08:39 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2019-11-22 17:08:39 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2019-11-22 17:08:39 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:39 : INFO] - 100 
+[2019-11-22 17:08:40 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/bushiroad_logo-updraft-pre-smush-original.png 
+[2019-11-22 17:08:40 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:40 : INFO] - 100 
+[2019-11-22 17:08:42 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:42 : INFO] - 100 
+[2019-11-22 17:08:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/bushiroad_logo.png.The file was compressed from 8.23 KB to 4.60 KB saving 44.16 percent using WP-Optimize 
+[2019-11-22 17:08:43 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2019-11-22 17:08:43 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2019-11-22 17:08:43 : INFO] - Re_Smush_It_Task - Attachment ID : 226, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:08:43 : INFO] - 100 
+[2019-11-22 17:09:18 : INFO] - 
+ 
+[2019-11-22 17:09:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:09:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:09:18 : INFO] - WP: 5.3 
+[2019-11-22 17:09:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:09:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:09:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:09:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:09:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:09:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:09:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:09:18 : INFO] - memory_limit: 600M (used: 80.9M | 16M) 
+[2019-11-22 17:09:18 : INFO] - multisite: N 
+[2019-11-22 17:09:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:09:18 : INFO] - A total of 48 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:09:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:09:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:10:18 : INFO] - 
+ 
+[2019-11-22 17:10:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:10:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:10:18 : INFO] - WP: 5.3 
+[2019-11-22 17:10:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:10:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:10:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:10:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:10:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:10:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:10:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:10:18 : INFO] - memory_limit: 600M (used: 80.9M | 16M) 
+[2019-11-22 17:10:18 : INFO] - multisite: N 
+[2019-11-22 17:10:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:10:18 : INFO] - A total of 48 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:10:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:10:18 
+[2019-11-22 17:10:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:10:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:10:18 
+[2019-11-22 17:10:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:10:21 : INFO] - Task with ID 19 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:10:21 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2019-11-22 17:10:21 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:21 : INFO] - 100 
+[2019-11-22 17:10:28 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/1047Yukina-Minato-Happy-gOmuKV-updraft-pre-smush-original.png 
+[2019-11-22 17:10:28 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:28 : INFO] - 100 
+[2019-11-22 17:10:32 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:32 : INFO] - 100 
+[2019-11-22 17:10:34 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:34 : INFO] - 100 
+[2019-11-22 17:10:37 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:37 : INFO] - 100 
+[2019-11-22 17:10:43 : INFO] - Re_Smush_It_Task - Attachment ID : 187, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:43 : INFO] - 100 
+[2019-11-22 17:10:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/1047Yukina-Minato-Happy-gOmuKV.png.The file was compressed from 583.95 KB to 543.83 KB saving 6.87 percent using WP-Optimize 
+[2019-11-22 17:10:55 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2019-11-22 17:10:55 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:10:55 
+[2019-11-22 17:10:55 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2019-11-22 17:10:55 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:10:55 : INFO] - 100 
+[2019-11-22 17:11:02 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/EB0UvJpWsAAQQc_-updraft-pre-smush-original.jpg 
+[2019-11-22 17:11:02 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:02 : INFO] - 100 
+[2019-11-22 17:11:05 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:05 : INFO] - 100 
+[2019-11-22 17:11:06 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:06 : INFO] - 100 
+[2019-11-22 17:11:08 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:08 : INFO] - 100 
+[2019-11-22 17:11:11 : INFO] - Re_Smush_It_Task - Attachment ID : 186, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:11 : INFO] - 100 
+[2019-11-22 17:11:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/EB0UvJpWsAAQQc_.jpg.The file was compressed from 559.65 KB to 559.65 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:11:15 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2019-11-22 17:11:15 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:11:15 
+[2019-11-22 17:11:15 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2019-11-22 17:11:15 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:15 : INFO] - 100 
+[2019-11-22 17:11:18 : INFO] - 
+ 
+[2019-11-22 17:11:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:11:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:11:18 : INFO] - WP: 5.3 
+[2019-11-22 17:11:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:11:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:11:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:11:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:11:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:11:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:11:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:11:18 : INFO] - memory_limit: 600M (used: 80.8M | 16M) 
+[2019-11-22 17:11:18 : INFO] - multisite: N 
+[2019-11-22 17:11:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:11:18 : INFO] - A total of 45 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:11:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:11:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:11:19 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/bg_med-updraft-pre-smush-original.jpg 
+[2019-11-22 17:11:19 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:19 : INFO] - 100 
+[2019-11-22 17:11:21 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:21 : INFO] - 100 
+[2019-11-22 17:11:23 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:23 : INFO] - 100 
+[2019-11-22 17:11:24 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:24 : INFO] - 100 
+[2019-11-22 17:11:26 : INFO] - Re_Smush_It_Task - Attachment ID : 184, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:27 : INFO] - 100 
+[2019-11-22 17:11:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/bg_med.jpg.The file was compressed from 239.00 KB to 233.16 KB saving 2.45 percent using WP-Optimize 
+[2019-11-22 17:11:29 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2019-11-22 17:11:29 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2019-11-22 17:11:29 : INFO] - Re_Smush_It_Task - Attachment ID : 183, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:29 : INFO] - 100 
+[2019-11-22 17:11:31 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/bangdream_logo-updraft-pre-smush-original.png 
+[2019-11-22 17:11:31 : INFO] - Re_Smush_It_Task - Attachment ID : 183, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:31 : INFO] - 100 
+[2019-11-22 17:11:33 : INFO] - Re_Smush_It_Task - Attachment ID : 183, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:33 : INFO] - 100 
+[2019-11-22 17:11:35 : INFO] - Re_Smush_It_Task - Attachment ID : 183, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:35 : INFO] - 100 
+[2019-11-22 17:11:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/bangdream_logo.png.The file was compressed from 53.57 KB to 18.15 KB saving 66.13 percent using WP-Optimize 
+[2019-11-22 17:11:37 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2019-11-22 17:11:37 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:11:37 
+[2019-11-22 17:11:37 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2019-11-22 17:11:37 : INFO] - Re_Smush_It_Task - Attachment ID : 180, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:37 : INFO] - 100 
+[2019-11-22 17:11:41 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/character_01-updraft-pre-smush-original.png 
+[2019-11-22 17:11:41 : INFO] - Re_Smush_It_Task - Attachment ID : 180, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:41 : INFO] - 100 
+[2019-11-22 17:11:44 : INFO] - Re_Smush_It_Task - Attachment ID : 180, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:44 : INFO] - 100 
+[2019-11-22 17:11:46 : INFO] - Re_Smush_It_Task - Attachment ID : 180, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:11:46 : INFO] - 100 
+[2019-11-22 17:12:18 : INFO] - 
+ 
+[2019-11-22 17:12:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:12:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:12:18 : INFO] - WP: 5.3 
+[2019-11-22 17:12:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:12:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:12:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:12:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:12:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:12:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:12:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:12:18 : INFO] - memory_limit: 600M (used: 80.8M | 18M) 
+[2019-11-22 17:12:18 : INFO] - multisite: N 
+[2019-11-22 17:12:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:12:18 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:12:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:12:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:13:18 : INFO] - 
+ 
+[2019-11-22 17:13:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:13:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:13:18 : INFO] - WP: 5.3 
+[2019-11-22 17:13:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:13:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:13:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:13:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:13:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:13:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:13:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:13:18 : INFO] - memory_limit: 600M (used: 80.8M | 14M) 
+[2019-11-22 17:13:18 : INFO] - multisite: N 
+[2019-11-22 17:13:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:13:18 : INFO] - A total of 43 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:13:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:13:18 
+[2019-11-22 17:13:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:13:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:13:18 
+[2019-11-22 17:13:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:13:21 : INFO] - Task with ID 24 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:13:21 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2019-11-22 17:13:21 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:21 : INFO] - 100 
+[2019-11-22 17:13:23 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-3-updraft-pre-smush-original.png 
+[2019-11-22 17:13:23 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:23 : INFO] - 100 
+[2019-11-22 17:13:24 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:24 : INFO] - 100 
+[2019-11-22 17:13:26 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:26 : INFO] - 100 
+[2019-11-22 17:13:28 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:28 : INFO] - 100 
+[2019-11-22 17:13:30 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-3.png.The file was compressed from 37.59 KB to 17.35 KB saving 53.85 percent using WP-Optimize 
+[2019-11-22 17:13:30 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2019-11-22 17:13:30 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2019-11-22 17:13:30 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:30 : INFO] - 100 
+[2019-11-22 17:13:32 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-2-updraft-pre-smush-original.png 
+[2019-11-22 17:13:32 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:32 : INFO] - 100 
+[2019-11-22 17:13:33 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:33 : INFO] - 100 
+[2019-11-22 17:13:34 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:34 : INFO] - 100 
+[2019-11-22 17:13:37 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:37 : INFO] - 100 
+[2019-11-22 17:13:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-2.png.The file was compressed from 37.59 KB to 17.36 KB saving 53.82 percent using WP-Optimize 
+[2019-11-22 17:13:38 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2019-11-22 17:13:38 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:13:38 
+[2019-11-22 17:13:38 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2019-11-22 17:13:38 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:38 : INFO] - 100 
+[2019-11-22 17:13:40 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-1-updraft-pre-smush-original.png 
+[2019-11-22 17:13:40 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:40 : INFO] - 100 
+[2019-11-22 17:13:41 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:41 : INFO] - 100 
+[2019-11-22 17:13:43 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:43 : INFO] - 100 
+[2019-11-22 17:13:45 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:45 : INFO] - 100 
+[2019-11-22 17:13:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-1.png.The file was compressed from 38.24 KB to 17.52 KB saving 54.18 percent using WP-Optimize 
+[2019-11-22 17:13:46 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2019-11-22 17:13:46 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2019-11-22 17:13:46 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:46 : INFO] - 100 
+[2019-11-22 17:13:48 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream-updraft-pre-smush-original.png 
+[2019-11-22 17:13:48 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:48 : INFO] - 100 
+[2019-11-22 17:13:50 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:50 : INFO] - 100 
+[2019-11-22 17:13:51 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:51 : INFO] - 100 
+[2019-11-22 17:13:53 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:53 : INFO] - 100 
+[2019-11-22 17:13:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/cropped-BanG-Dream.png.The file was compressed from 38.59 KB to 17.55 KB saving 54.52 percent using WP-Optimize 
+[2019-11-22 17:13:55 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2019-11-22 17:13:55 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2019-11-22 17:13:55 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:55 : INFO] - 100 
+[2019-11-22 17:13:57 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/11/BanG-Dream-updraft-pre-smush-original.png 
+[2019-11-22 17:13:57 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:57 : INFO] - 100 
+[2019-11-22 17:13:59 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:13:59 : INFO] - 100 
+[2019-11-22 17:14:00 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:00 : INFO] - 100 
+[2019-11-22 17:14:02 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:02 : INFO] - 100 
+[2019-11-22 17:14:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/11/BanG-Dream.png.The file was compressed from 45.23 KB to 22.99 KB saving 49.17 percent using WP-Optimize 
+[2019-11-22 17:14:04 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2019-11-22 17:14:04 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:14:04 
+[2019-11-22 17:14:04 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2019-11-22 17:14:04 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:04 : INFO] - 100 
+[2019-11-22 17:14:05 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-yuki11-updraft-pre-smush-original.jpg 
+[2019-11-22 17:14:05 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:05 : INFO] - 100 
+[2019-11-22 17:14:06 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:06 : INFO] - 100 
+[2019-11-22 17:14:08 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:08 : INFO] - 100 
+[2019-11-22 17:14:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-yuki11.jpg.The file was compressed from 12.70 KB to 11.88 KB saving 6.46 percent using WP-Optimize 
+[2019-11-22 17:14:09 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2019-11-22 17:14:09 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2019-11-22 17:14:09 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:09 : INFO] - 100 
+[2019-11-22 17:14:13 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1-1-updraft-pre-smush-original.jpg 
+[2019-11-22 17:14:13 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:13 : INFO] - 100 
+[2019-11-22 17:14:15 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:15 : INFO] - 100 
+[2019-11-22 17:14:16 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:16 : INFO] - 100 
+[2019-11-22 17:14:18 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:18 : INFO] - 100 
+[2019-11-22 17:14:18 : INFO] - 
+ 
+[2019-11-22 17:14:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:14:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:14:18 : INFO] - WP: 5.3 
+[2019-11-22 17:14:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:14:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:14:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:14:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:14:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:14:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:14:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:14:18 : INFO] - memory_limit: 600M (used: 80.8M | 12M) 
+[2019-11-22 17:14:18 : INFO] - multisite: N 
+[2019-11-22 17:14:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:14:18 : INFO] - A total of 36 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:14:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:14:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:14:20 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:20 : INFO] - 100 
+[2019-11-22 17:14:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1-1.jpg.The file was compressed from 258.69 KB to 245.15 KB saving 5.23 percent using WP-Optimize 
+[2019-11-22 17:14:23 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2019-11-22 17:14:23 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2019-11-22 17:14:23 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:23 : INFO] - 100 
+[2019-11-22 17:14:28 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-68747470733a2f2f692e62616e646f72692e70617274792f752f632f6172742f612f3130303648696e612d48696b6177612d436f6f6c2d757742496a542e706e67-1-updraft-pre-smush-original.png 
+[2019-11-22 17:14:28 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:28 : INFO] - 100 
+[2019-11-22 17:14:31 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:31 : INFO] - 100 
+[2019-11-22 17:14:33 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:33 : INFO] - 100 
+[2019-11-22 17:14:35 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:35 : INFO] - 100 
+[2019-11-22 17:14:40 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:40 : INFO] - 100 
+[2019-11-22 17:14:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-68747470733a2f2f692e62616e646f72692e70617274792f752f632f6172742f612f3130303648696e612d48696b6177612d436f6f6c2d757742496a542e706e67-1.png.The file was compressed from 687.18 KB to 217.86 KB saving 68.3 percent using WP-Optimize 
+[2019-11-22 17:14:45 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2019-11-22 17:14:45 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:14:45 
+[2019-11-22 17:14:45 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2019-11-22 17:14:45 : INFO] - Re_Smush_It_Task - Attachment ID : 123, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:14:45 : INFO] - 100 
+[2019-11-22 17:15:18 : INFO] - 
+ 
+[2019-11-22 17:15:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:15:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:15:18 : INFO] - WP: 5.3 
+[2019-11-22 17:15:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:15:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:15:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:15:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:15:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:15:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:15:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:15:18 : INFO] - memory_limit: 600M (used: 80.8M | 14M) 
+[2019-11-22 17:15:18 : INFO] - multisite: N 
+[2019-11-22 17:15:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:15:18 : INFO] - A total of 34 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:15:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:15:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:16:18 : INFO] - 
+ 
+[2019-11-22 17:16:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:16:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:16:18 : INFO] - WP: 5.3 
+[2019-11-22 17:16:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:16:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:16:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:16:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:16:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:16:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:16:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:16:18 : INFO] - memory_limit: 600M (used: 80.8M | 14M) 
+[2019-11-22 17:16:18 : INFO] - multisite: N 
+[2019-11-22 17:16:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:16:18 : INFO] - A total of 34 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:16:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:16:18 
+[2019-11-22 17:16:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:16:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:16:18 
+[2019-11-22 17:16:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:16:21 : INFO] - Task with ID 33 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:16:21 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2019-11-22 17:16:21 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:21 : INFO] - 100 
+[2019-11-22 17:16:25 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1-updraft-pre-smush-original.jpg 
+[2019-11-22 17:16:25 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:25 : INFO] - 100 
+[2019-11-22 17:16:27 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:27 : INFO] - 100 
+[2019-11-22 17:16:29 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:29 : INFO] - 100 
+[2019-11-22 17:16:31 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:31 : INFO] - 100 
+[2019-11-22 17:16:32 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:32 : INFO] - 100 
+[2019-11-22 17:16:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-81dxVy5th-Live-CndV19-1.jpg.The file was compressed from 260.85 KB to 247.20 KB saving 5.23 percent using WP-Optimize 
+[2019-11-22 17:16:35 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2019-11-22 17:16:35 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2019-11-22 17:16:35 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:35 : INFO] - 100 
+[2019-11-22 17:16:43 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/81dxVy5th-Live-CndV19-1-updraft-pre-smush-original.jpg 
+[2019-11-22 17:16:43 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:43 : INFO] - 100 
+[2019-11-22 17:16:45 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:45 : INFO] - 100 
+[2019-11-22 17:16:48 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:48 : INFO] - 100 
+[2019-11-22 17:16:50 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:50 : INFO] - 100 
+[2019-11-22 17:16:52 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:52 : INFO] - 100 
+[2019-11-22 17:16:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/81dxVy5th-Live-CndV19-1.jpg.The file was compressed from 745.15 KB to 745.15 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:16:55 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2019-11-22 17:16:55 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:16:55 
+[2019-11-22 17:16:55 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2019-11-22 17:16:55 : INFO] - Re_Smush_It_Task - Attachment ID : 118, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:55 : INFO] - 100 
+[2019-11-22 17:16:57 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-586236629359001604-updraft-pre-smush-original.png 
+[2019-11-22 17:16:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-586236629359001604.png.The file was compressed from 29.76 KB to 10.17 KB saving 65.82 percent using WP-Optimize 
+[2019-11-22 17:16:57 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2019-11-22 17:16:57 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2019-11-22 17:16:57 : INFO] - Re_Smush_It_Task - Attachment ID : 116, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:16:57 : INFO] - 100 
+[2019-11-22 17:17:01 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/71ec79a83a8b45059fcfbb01d8baf84e-1-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:01 : INFO] - Re_Smush_It_Task - Attachment ID : 116, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:01 : INFO] - 100 
+[2019-11-22 17:17:03 : INFO] - Re_Smush_It_Task - Attachment ID : 116, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:03 : INFO] - 100 
+[2019-11-22 17:17:05 : INFO] - Re_Smush_It_Task - Attachment ID : 116, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:05 : INFO] - 100 
+[2019-11-22 17:17:07 : INFO] - Re_Smush_It_Task - Attachment ID : 116, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:07 : INFO] - 100 
+[2019-11-22 17:17:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/71ec79a83a8b45059fcfbb01d8baf84e-1.jpg.The file was compressed from 149.66 KB to 143.11 KB saving 4.38 percent using WP-Optimize 
+[2019-11-22 17:17:08 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2019-11-22 17:17:08 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2019-11-22 17:17:08 : INFO] - Re_Smush_It_Task - Attachment ID : 104, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:08 : INFO] - 100 
+[2019-11-22 17:17:10 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/yuki11-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:10 : INFO] - Re_Smush_It_Task - Attachment ID : 104, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:10 : INFO] - 100 
+[2019-11-22 17:17:12 : INFO] - Re_Smush_It_Task - Attachment ID : 104, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:12 : INFO] - 100 
+[2019-11-22 17:17:13 : INFO] - Re_Smush_It_Task - Attachment ID : 104, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:13 : INFO] - 100 
+[2019-11-22 17:17:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/yuki11.jpg.The file was compressed from 42.75 KB to 40.88 KB saving 4.39 percent using WP-Optimize 
+[2019-11-22 17:17:15 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2019-11-22 17:17:15 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:17:15 
+[2019-11-22 17:17:15 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2019-11-22 17:17:15 : INFO] - Re_Smush_It_Task - Attachment ID : 103, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:15 : INFO] - 100 
+[2019-11-22 17:17:17 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/yuki12-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:17 : INFO] - Re_Smush_It_Task - Attachment ID : 103, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:17 : INFO] - 100 
+[2019-11-22 17:17:18 : INFO] - 
+ 
+[2019-11-22 17:17:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:17:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:17:18 : INFO] - WP: 5.3 
+[2019-11-22 17:17:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:17:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:17:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:17:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:17:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:17:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:17:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:17:18 : INFO] - memory_limit: 600M (used: 80.7M | 14M) 
+[2019-11-22 17:17:18 : INFO] - multisite: N 
+[2019-11-22 17:17:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:17:18 : INFO] - A total of 28 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:17:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:17:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:17:19 : INFO] - Re_Smush_It_Task - Attachment ID : 103, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:19 : INFO] - 100 
+[2019-11-22 17:17:21 : INFO] - Re_Smush_It_Task - Attachment ID : 103, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:21 : INFO] - 100 
+[2019-11-22 17:17:22 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/yuki12.jpg.The file was compressed from 30.43 KB to 29.14 KB saving 4.24 percent using WP-Optimize 
+[2019-11-22 17:17:22 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2019-11-22 17:17:22 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2019-11-22 17:17:22 : INFO] - Re_Smush_It_Task - Attachment ID : 101, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:22 : INFO] - 100 
+[2019-11-22 17:17:26 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/tou-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:26 : INFO] - Re_Smush_It_Task - Attachment ID : 101, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:26 : INFO] - 100 
+[2019-11-22 17:17:27 : INFO] - Re_Smush_It_Task - Attachment ID : 101, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:27 : INFO] - 100 
+[2019-11-22 17:17:29 : INFO] - Re_Smush_It_Task - Attachment ID : 101, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:29 : INFO] - 100 
+[2019-11-22 17:17:30 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/tou.jpg.The file was compressed from 125.77 KB to 121.54 KB saving 3.37 percent using WP-Optimize 
+[2019-11-22 17:17:30 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2019-11-22 17:17:30 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2019-11-22 17:17:30 : INFO] - Re_Smush_It_Task - Attachment ID : 97, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:30 : INFO] - 100 
+[2019-11-22 17:17:35 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/be2dd401186b7ce5ad137a28b70d78a449f2f5-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:35 : INFO] - Re_Smush_It_Task - Attachment ID : 97, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:35 : INFO] - 100 
+[2019-11-22 17:17:36 : INFO] - Re_Smush_It_Task - Attachment ID : 97, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:36 : INFO] - 100 
+[2019-11-22 17:17:38 : INFO] - Re_Smush_It_Task - Attachment ID : 97, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:38 : INFO] - 100 
+[2019-11-22 17:17:40 : INFO] - Re_Smush_It_Task - Attachment ID : 97, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:40 : INFO] - 100 
+[2019-11-22 17:17:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/be2dd401186b7ce5ad137a28b70d78a449f2f5.jpg.The file was compressed from 309.40 KB to 247.99 KB saving 19.85 percent using WP-Optimize 
+[2019-11-22 17:17:41 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2019-11-22 17:17:41 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:17:41 
+[2019-11-22 17:17:41 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2019-11-22 17:17:41 : INFO] - Re_Smush_It_Task - Attachment ID : 96, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:41 : INFO] - 100 
+[2019-11-22 17:17:46 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/3fe1ed33f804b11104f1e57f8edcd856b74d08-updraft-pre-smush-original.jpg 
+[2019-11-22 17:17:46 : INFO] - Re_Smush_It_Task - Attachment ID : 96, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:17:46 : INFO] - 100 
+[2019-11-22 17:18:18 : INFO] - 
+ 
+[2019-11-22 17:18:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:18:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:18:18 : INFO] - WP: 5.3 
+[2019-11-22 17:18:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:18:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:18:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:18:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:18:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:18:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:18:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:18:18 : INFO] - memory_limit: 600M (used: 80.7M | 14M) 
+[2019-11-22 17:18:18 : INFO] - multisite: N 
+[2019-11-22 17:18:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:18:18 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:18:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:18:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:19:18 : INFO] - 
+ 
+[2019-11-22 17:19:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:19:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:19:18 : INFO] - WP: 5.3 
+[2019-11-22 17:19:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:19:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:19:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:19:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:19:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:19:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:19:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:19:18 : INFO] - memory_limit: 600M (used: 80.7M | 16M) 
+[2019-11-22 17:19:18 : INFO] - multisite: N 
+[2019-11-22 17:19:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:19:18 : INFO] - A total of 25 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:19:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:19:18 
+[2019-11-22 17:19:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:19:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:19:18 
+[2019-11-22 17:19:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:19:21 : INFO] - Task with ID 42 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:19:21 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2019-11-22 17:19:21 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:21 : INFO] - 100 
+[2019-11-22 17:19:23 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/das-updraft-pre-smush-original.jpg 
+[2019-11-22 17:19:23 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:23 : INFO] - 100 
+[2019-11-22 17:19:24 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:24 : INFO] - 100 
+[2019-11-22 17:19:26 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:26 : INFO] - 100 
+[2019-11-22 17:19:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/das.jpg.The file was compressed from 26.50 KB to 25.55 KB saving 3.56 percent using WP-Optimize 
+[2019-11-22 17:19:27 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2019-11-22 17:19:27 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2019-11-22 17:19:27 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:27 : INFO] - 100 
+[2019-11-22 17:19:33 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/d6b470c1f6b8fbc0b21da131caf3ffd2000c93-updraft-pre-smush-original.jpg 
+[2019-11-22 17:19:33 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:33 : INFO] - 100 
+[2019-11-22 17:19:35 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:35 : INFO] - 100 
+[2019-11-22 17:19:38 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:38 : INFO] - 100 
+[2019-11-22 17:19:39 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:39 : INFO] - 100 
+[2019-11-22 17:19:41 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : November 22, 2019 05:01:18 
+[2019-11-22 17:19:41 : INFO] - 100 
+[2019-11-22 17:19:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/d6b470c1f6b8fbc0b21da131caf3ffd2000c93.jpg.The file was compressed from 430.33 KB to 409.52 KB saving 4.84 percent using WP-Optimize 
+[2019-11-22 17:19:44 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2019-11-22 17:19:44 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:19:44 
+[2019-11-22 17:19:44 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2019-11-22 17:19:44 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:44 : INFO] - 100 
+[2019-11-22 17:19:51 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/c64fff34971fa21731a75e87ecb3d957b5d8a2-updraft-pre-smush-original.jpg 
+[2019-11-22 17:19:51 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:51 : INFO] - 100 
+[2019-11-22 17:19:53 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:53 : INFO] - 100 
+[2019-11-22 17:19:55 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:55 : INFO] - 100 
+[2019-11-22 17:19:57 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:57 : INFO] - 100 
+[2019-11-22 17:19:58 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:19:58 : INFO] - 100 
+[2019-11-22 17:20:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/c64fff34971fa21731a75e87ecb3d957b5d8a2.jpg.The file was compressed from 564.56 KB to 538.45 KB saving 4.63 percent using WP-Optimize 
+[2019-11-22 17:20:02 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2019-11-22 17:20:02 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2019-11-22 17:20:02 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:02 : INFO] - 100 
+[2019-11-22 17:20:06 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/9ea7bf75dac2d677b4de6d047704a27221fdf6-updraft-pre-smush-original.jpg 
+[2019-11-22 17:20:06 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:06 : INFO] - 100 
+[2019-11-22 17:20:08 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:08 : INFO] - 100 
+[2019-11-22 17:20:10 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:10 : INFO] - 100 
+[2019-11-22 17:20:11 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:11 : INFO] - 100 
+[2019-11-22 17:20:13 : INFO] - Re_Smush_It_Task - Attachment ID : 90, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:13 : INFO] - 100 
+[2019-11-22 17:20:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/9ea7bf75dac2d677b4de6d047704a27221fdf6.jpg.The file was compressed from 317.46 KB to 300.65 KB saving 5.3 percent using WP-Optimize 
+[2019-11-22 17:20:16 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2019-11-22 17:20:16 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:20:16 
+[2019-11-22 17:20:16 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2019-11-22 17:20:16 : INFO] - Re_Smush_It_Task - Attachment ID : 88, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:16 : INFO] - 100 
+[2019-11-22 17:20:18 : INFO] - 
+ 
+[2019-11-22 17:20:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:20:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:20:18 : INFO] - WP: 5.3 
+[2019-11-22 17:20:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:20:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:20:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:20:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:20:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:20:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:20:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:20:18 : INFO] - memory_limit: 600M (used: 80.7M | 16M) 
+[2019-11-22 17:20:18 : INFO] - multisite: N 
+[2019-11-22 17:20:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:20:18 : INFO] - A total of 20 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:20:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:20:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:20:20 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/367658455_8cc5cc78-0c95-4f8b-acdb-bd2f68c0b9d2_1201_1201-updraft-pre-smush-original.png 
+[2019-11-22 17:20:20 : INFO] - Re_Smush_It_Task - Attachment ID : 88, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:20 : INFO] - 100 
+[2019-11-22 17:20:23 : INFO] - Re_Smush_It_Task - Attachment ID : 88, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:23 : INFO] - 100 
+[2019-11-22 17:20:24 : INFO] - Re_Smush_It_Task - Attachment ID : 88, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:24 : INFO] - 100 
+[2019-11-22 17:20:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/367658455_8cc5cc78-0c95-4f8b-acdb-bd2f68c0b9d2_1201_1201.png.The file was compressed from 405.34 KB to 244.45 KB saving 39.69 percent using WP-Optimize 
+[2019-11-22 17:20:27 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2019-11-22 17:20:27 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2019-11-22 17:20:27 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:27 : INFO] - 100 
+[2019-11-22 17:20:30 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/71ec79a83a8b45059fcfbb01d8baf84e-updraft-pre-smush-original.jpg 
+[2019-11-22 17:20:30 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:30 : INFO] - 100 
+[2019-11-22 17:20:32 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:32 : INFO] - 100 
+[2019-11-22 17:20:34 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:34 : INFO] - 100 
+[2019-11-22 17:20:36 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:36 : INFO] - 100 
+[2019-11-22 17:20:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/71ec79a83a8b45059fcfbb01d8baf84e.jpg.The file was compressed from 149.66 KB to 143.11 KB saving 4.38 percent using WP-Optimize 
+[2019-11-22 17:20:38 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2019-11-22 17:20:38 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:20:38 
+[2019-11-22 17:20:38 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2019-11-22 17:20:38 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:38 : INFO] - 100 
+[2019-11-22 17:20:43 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/covers-cd-updraft-pre-smush-original.png 
+[2019-11-22 17:20:43 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:43 : INFO] - 100 
+[2019-11-22 17:20:46 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:20:46 : INFO] - 100 
+[2019-11-22 17:21:18 : INFO] - 
+ 
+[2019-11-22 17:21:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:21:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:21:18 : INFO] - WP: 5.3 
+[2019-11-22 17:21:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:21:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:21:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:21:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:21:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:21:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:21:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:21:18 : INFO] - memory_limit: 600M (used: 80.7M | 14M) 
+[2019-11-22 17:21:18 : INFO] - multisite: N 
+[2019-11-22 17:21:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:21:18 : INFO] - A total of 18 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:21:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:21:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:22:18 : INFO] - 
+ 
+[2019-11-22 17:22:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:22:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:22:18 : INFO] - WP: 5.3 
+[2019-11-22 17:22:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:22:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:22:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:22:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:22:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:22:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:22:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:22:18 : INFO] - memory_limit: 600M (used: 80.7M | 46M) 
+[2019-11-22 17:22:18 : INFO] - multisite: N 
+[2019-11-22 17:22:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:22:18 : INFO] - A total of 18 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:22:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:22:18 
+[2019-11-22 17:22:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:22:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:22:18 
+[2019-11-22 17:22:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:22:21 : INFO] - Task with ID 49 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:22:21 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2019-11-22 17:22:21 : INFO] - Re_Smush_It_Task - Attachment ID : 80, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:21 : INFO] - 100 
+[2019-11-22 17:22:22 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/covers-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:22 : INFO] - Re_Smush_It_Task - Attachment ID : 80, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:22 : INFO] - 100 
+[2019-11-22 17:22:24 : INFO] - Re_Smush_It_Task - Attachment ID : 80, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:24 : INFO] - 100 
+[2019-11-22 17:22:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/covers.jpg.The file was compressed from 42.47 KB to 40.58 KB saving 4.44 percent using WP-Optimize 
+[2019-11-22 17:22:26 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2019-11-22 17:22:26 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2019-11-22 17:22:26 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:26 : INFO] - 100 
+[2019-11-22 17:22:28 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_bluenavy-e1572121411970-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:28 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:28 : INFO] - 100 
+[2019-11-22 17:22:30 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:30 : INFO] - 100 
+[2019-11-22 17:22:31 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:31 : INFO] - 100 
+[2019-11-22 17:22:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_bluenavy-e1572121411970.jpg.The file was compressed from 44.34 KB to 42.12 KB saving 5.01 percent using WP-Optimize 
+[2019-11-22 17:22:33 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2019-11-22 17:22:33 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2019-11-22 17:22:33 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:33 : INFO] - 100 
+[2019-11-22 17:22:35 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_rosa-e1572121496784-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:35 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:35 : INFO] - 100 
+[2019-11-22 17:22:37 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:37 : INFO] - 100 
+[2019-11-22 17:22:39 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:39 : INFO] - 100 
+[2019-11-22 17:22:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_rosa-e1572121496784.jpg.The file was compressed from 43.21 KB to 41.11 KB saving 4.85 percent using WP-Optimize 
+[2019-11-22 17:22:41 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2019-11-22 17:22:41 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:22:41 
+[2019-11-22 17:22:41 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2019-11-22 17:22:41 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:41 : INFO] - 100 
+[2019-11-22 17:22:43 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_roja-e1572121528554-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:43 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:43 : INFO] - 100 
+[2019-11-22 17:22:45 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:45 : INFO] - 100 
+[2019-11-22 17:22:46 : INFO] - Re_Smush_It_Task - Attachment ID : 70, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:46 : INFO] - 100 
+[2019-11-22 17:22:48 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_roja-e1572121528554.jpg.The file was compressed from 49.76 KB to 47.21 KB saving 5.13 percent using WP-Optimize 
+[2019-11-22 17:22:48 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2019-11-22 17:22:48 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2019-11-22 17:22:48 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:48 : INFO] - 100 
+[2019-11-22 17:22:50 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_cafe-e1572121550961-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:50 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:50 : INFO] - 100 
+[2019-11-22 17:22:52 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:52 : INFO] - 100 
+[2019-11-22 17:22:53 : INFO] - Re_Smush_It_Task - Attachment ID : 67, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:53 : INFO] - 100 
+[2019-11-22 17:22:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_cafe-e1572121550961.jpg.The file was compressed from 38.78 KB to 36.89 KB saving 4.88 percent using WP-Optimize 
+[2019-11-22 17:22:55 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2019-11-22 17:22:55 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2019-11-22 17:22:55 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:55 : INFO] - 100 
+[2019-11-22 17:22:57 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/01_llaveros-updraft-pre-smush-original.jpg 
+[2019-11-22 17:22:57 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:57 : INFO] - 100 
+[2019-11-22 17:22:59 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:22:59 : INFO] - 100 
+[2019-11-22 17:23:00 : INFO] - Re_Smush_It_Task - Attachment ID : 64, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:00 : INFO] - 100 
+[2019-11-22 17:23:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/01_llaveros.jpg.The file was compressed from 72.39 KB to 72.39 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:23:02 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2019-11-22 17:23:02 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:23:02 
+[2019-11-22 17:23:02 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2019-11-22 17:23:02 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:02 : INFO] - 100 
+[2019-11-22 17:23:04 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_2-updraft-pre-smush-original.jpg 
+[2019-11-22 17:23:04 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:04 : INFO] - 100 
+[2019-11-22 17:23:06 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:06 : INFO] - 100 
+[2019-11-22 17:23:07 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:07 : INFO] - 100 
+[2019-11-22 17:23:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_2.jpg.The file was compressed from 35.75 KB to 35.75 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:23:09 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2019-11-22 17:23:09 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2019-11-22 17:23:09 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:09 : INFO] - 100 
+[2019-11-22 17:23:11 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_3-updraft-pre-smush-original.jpg 
+[2019-11-22 17:23:11 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:11 : INFO] - 100 
+[2019-11-22 17:23:12 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:12 : INFO] - 100 
+[2019-11-22 17:23:14 : INFO] - Re_Smush_It_Task - Attachment ID : 60, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:14 : INFO] - 100 
+[2019-11-22 17:23:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_3.jpg.The file was compressed from 42.85 KB to 42.85 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:23:15 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2019-11-22 17:23:15 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2019-11-22 17:23:15 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:15 : INFO] - 100 
+[2019-11-22 17:23:17 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/03-kit_nesobeneris-updraft-pre-smush-original.jpg 
+[2019-11-22 17:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:17 : INFO] - 100 
+[2019-11-22 17:23:17 : INFO] - 
+ 
+[2019-11-22 17:23:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:23:17 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:23:18 : INFO] - WP: 5.3 
+[2019-11-22 17:23:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:23:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:23:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:23:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:23:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:23:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:23:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:23:18 : INFO] - memory_limit: 600M (used: 80.6M | 40M) 
+[2019-11-22 17:23:18 : INFO] - multisite: N 
+[2019-11-22 17:23:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:23:18 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:23:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:23:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:19 : INFO] - 100 
+[2019-11-22 17:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 58, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:20 : INFO] - 100 
+[2019-11-22 17:23:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/03-kit_nesobeneris.jpg.The file was compressed from 30.96 KB to 30.96 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:23:21 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2019-11-22 17:23:21 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2019-11-22 17:23:21 : INFO] - Re_Smush_It_Task - Attachment ID : 57, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:21 : INFO] - 100 
+[2019-11-22 17:23:24 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_4-updraft-pre-smush-original.jpg 
+[2019-11-22 17:23:24 : INFO] - Re_Smush_It_Task - Attachment ID : 57, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:24 : INFO] - 100 
+[2019-11-22 17:23:26 : INFO] - Re_Smush_It_Task - Attachment ID : 57, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:26 : INFO] - 100 
+[2019-11-22 17:23:27 : INFO] - Re_Smush_It_Task - Attachment ID : 57, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:27 : INFO] - 100 
+[2019-11-22 17:23:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/03_kit_nesobeneris_4.jpg.The file was compressed from 47.34 KB to 47.34 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:23:29 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2019-11-22 17:23:29 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:23:29 
+[2019-11-22 17:23:29 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2019-11-22 17:23:29 : INFO] - Re_Smush_It_Task - Attachment ID : 55, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:29 : INFO] - 100 
+[2019-11-22 17:23:31 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_yukina-updraft-pre-smush-original.jpg 
+[2019-11-22 17:23:31 : INFO] - Re_Smush_It_Task - Attachment ID : 55, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:31 : INFO] - 100 
+[2019-11-22 17:23:33 : INFO] - Re_Smush_It_Task - Attachment ID : 55, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:33 : INFO] - 100 
+[2019-11-22 17:23:35 : INFO] - Re_Smush_It_Task - Attachment ID : 55, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:35 : INFO] - 100 
+[2019-11-22 17:23:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_yukina.jpg.The file was compressed from 53.63 KB to 51.51 KB saving 3.97 percent using WP-Optimize 
+[2019-11-22 17:23:37 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2019-11-22 17:23:37 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2019-11-22 17:23:37 : INFO] - Re_Smush_It_Task - Attachment ID : 47, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:37 : INFO] - 100 
+[2019-11-22 17:23:41 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-BREAD-2-updraft-pre-smush-original.png 
+[2019-11-22 17:23:41 : INFO] - Re_Smush_It_Task - Attachment ID : 47, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:41 : INFO] - 100 
+[2019-11-22 17:23:44 : INFO] - Re_Smush_It_Task - Attachment ID : 47, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:23:44 : INFO] - 100 
+[2019-11-22 17:24:18 : INFO] - 
+ 
+[2019-11-22 17:24:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:24:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:24:18 : INFO] - WP: 5.3 
+[2019-11-22 17:24:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:24:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:24:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:24:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:24:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:24:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:24:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:24:18 : INFO] - memory_limit: 600M (used: 80.6M | 22M) 
+[2019-11-22 17:24:18 : INFO] - multisite: N 
+[2019-11-22 17:24:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:24:18 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:24:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:24:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:25:18 : INFO] - 
+ 
+[2019-11-22 17:25:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:25:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:25:18 : INFO] - WP: 5.3 
+[2019-11-22 17:25:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:25:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:25:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:25:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:25:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:25:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:25:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:25:18 : INFO] - memory_limit: 600M (used: 80.6M | 18M) 
+[2019-11-22 17:25:18 : INFO] - multisite: N 
+[2019-11-22 17:25:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:25:18 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:25:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:25:18 
+[2019-11-22 17:25:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:25:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:25:18 
+[2019-11-22 17:25:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:25:21 : INFO] - Task with ID 61 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:25:21 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2019-11-22 17:25:21 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:21 : INFO] - 100 
+[2019-11-22 17:25:28 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-BREAD-1-updraft-pre-smush-original.png 
+[2019-11-22 17:25:28 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:28 : INFO] - 100 
+[2019-11-22 17:25:31 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:31 : INFO] - 100 
+[2019-11-22 17:25:36 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:36 : INFO] - 100 
+[2019-11-22 17:25:37 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:37 : INFO] - 100 
+[2019-11-22 17:25:40 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:40 : INFO] - 100 
+[2019-11-22 17:25:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/cropped-BREAD-1.png.The file was compressed from 815.40 KB to 283.69 KB saving 65.21 percent using WP-Optimize 
+[2019-11-22 17:25:47 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2019-11-22 17:25:47 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:25:47 
+[2019-11-22 17:25:47 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2019-11-22 17:25:47 : INFO] - Re_Smush_It_Task - Attachment ID : 44, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:47 : INFO] - 100 
+[2019-11-22 17:25:49 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/00_poleras_amarillo-updraft-pre-smush-original.jpg 
+[2019-11-22 17:25:49 : INFO] - Re_Smush_It_Task - Attachment ID : 44, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:49 : INFO] - 100 
+[2019-11-22 17:25:51 : INFO] - Re_Smush_It_Task - Attachment ID : 44, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:51 : INFO] - 100 
+[2019-11-22 17:25:53 : INFO] - Re_Smush_It_Task - Attachment ID : 44, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:53 : INFO] - 100 
+[2019-11-22 17:25:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/00_poleras_amarillo.jpg.The file was compressed from 156.64 KB to 146.61 KB saving 6.41 percent using WP-Optimize 
+[2019-11-22 17:25:55 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2019-11-22 17:25:55 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2019-11-22 17:25:55 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:55 : INFO] - 100 
+[2019-11-22 17:25:58 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/coffee-updraft-pre-smush-original.jpg 
+[2019-11-22 17:25:58 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:25:58 : INFO] - 100 
+[2019-11-22 17:26:00 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:00 : INFO] - 100 
+[2019-11-22 17:26:02 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:02 : INFO] - 100 
+[2019-11-22 17:26:03 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:03 : INFO] - 100 
+[2019-11-22 17:26:04 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:04 : INFO] - 100 
+[2019-11-22 17:26:07 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:07 : INFO] - 100 
+[2019-11-22 17:26:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/coffee.jpg.The file was compressed from 114.95 KB to 114.95 KB saving 0 percent using WP-Optimize 
+[2019-11-22 17:26:08 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2019-11-22 17:26:08 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:26:08 
+[2019-11-22 17:26:08 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2019-11-22 17:26:08 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:08 : INFO] - 100 
+[2019-11-22 17:26:18 : INFO] - 
+ 
+[2019-11-22 17:26:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:26:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:26:18 : INFO] - WP: 5.3 
+[2019-11-22 17:26:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:26:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:26:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:26:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:26:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:26:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:26:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:26:18 : INFO] - memory_limit: 600M (used: 80.5M | 14M) 
+[2019-11-22 17:26:18 : INFO] - multisite: N 
+[2019-11-22 17:26:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:26:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:26:18 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2019-11-22 17:26:18 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2019-11-22 17:26:27 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/cropped-BREAD-updraft-pre-smush-original.png 
+[2019-11-22 17:26:27 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:27 : INFO] - 100 
+[2019-11-22 17:26:30 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:30 : INFO] - 100 
+[2019-11-22 17:26:35 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:35 : INFO] - 100 
+[2019-11-22 17:26:37 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:37 : INFO] - 100 
+[2019-11-22 17:26:39 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:39 : INFO] - 100 
+[2019-11-22 17:26:47 : INFO] - Re_Smush_It_Task - Attachment ID : 16, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:26:47 : INFO] - 100 
+[2019-11-22 17:27:18 : INFO] - 
+ 
+[2019-11-22 17:27:18 : INFO] - Header for logs at time:  Fri, 22 Nov 2019 17:27:18 +0000 on https://localhost/proyectos/tienda_virtual 
+[2019-11-22 17:27:18 : INFO] - WP: 5.3 
+[2019-11-22 17:27:18 : INFO] - PHP: 7.3.11 (apache2handler, Windows NT DESKTOP-DSCFBHC 10.0 build 18362 (Windows 10) AMD64) 
+[2019-11-22 17:27:18 : INFO] - MySQL: 5.5.5 
+[2019-11-22 17:27:18 : INFO] - WPLANG: es_ES 
+[2019-11-22 17:27:18 : INFO] - Server: Apache/2.4.38 (Win64) OpenSSL/1.0.2r PHP/7.3.11 
+[2019-11-22 17:27:18 : INFO] - Outbound connections: N 
+[2019-11-22 17:27:18 : INFO] - safe_mode: 0 
+[2019-11-22 17:27:18 : INFO] - max_execution_time: 300 
+[2019-11-22 17:27:18 : INFO] - memory_limit: 600M (used: 80.5M | 14M) 
+[2019-11-22 17:27:18 : INFO] - multisite: N 
+[2019-11-22 17:27:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2019-11-22 17:27:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-11-22 17:27:18 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2019-11-22 17:27:18 
+[2019-11-22 17:27:18 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2019-11-22 17:27:18 : INFO] - Set semaphore last lock (smush) time to 2019-11-22 17:27:18 
+[2019-11-22 17:27:18 : INFO] - Semaphore lock (smush) complete 
+[2019-11-22 17:27:21 : INFO] - Task with ID 65 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2019-11-22 17:27:21 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2019-11-22 17:27:21 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:27:21 : INFO] - 100 
+[2019-11-22 17:27:22 : INFO] - Backing up the original image - C:/xampp/htdocs/proyectos/tienda_virtual/wp-content/uploads/2019/10/585567203395502080-updraft-pre-smush-original.png 
+[2019-11-22 17:27:22 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : November 22, 2019 05:01:19 
+[2019-11-22 17:27:22 : INFO] - 100 
+[2019-11-22 17:27:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\proyectos\tienda_virtual/wp-content/uploads/2019/10/585567203395502080.png.The file was compressed from 36.66 KB to 11.56 KB saving 68.46 percent using WP-Optimize 
+[2019-11-22 17:27:24 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2019-11-22 17:27:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-22 17:27:24 : INFO] - Semaphore (smush) unlocked 
+[2019-11-22 17:27:24 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2019-11-22 17:27:24 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2019-11-22 17:27:24 : INFO] - Cleaning up tasks of type (smush). A total of 66 tasks will be deleted. 
